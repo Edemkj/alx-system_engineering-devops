@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir __ls__ /bin/ls
+mkdir tmp/sym$/bin/ls __ls__
